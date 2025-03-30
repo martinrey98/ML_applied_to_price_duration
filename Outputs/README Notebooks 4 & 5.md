@@ -1,9 +1,4 @@
-# <ins>**Outputs Generados – Notebooks 4 y 5**</ins>
-
-Este documento resume los archivos **generados automáticamente** durante la ejecución de los notebooks:
-
-- [Notebook 4 – Modelización tradicional de Machine Learning](./Notebooks/README_Notebook_4.md)  
-- [Notebook 5 – Modelización Survival Machine Learning](./Notebooks/README_Notebook_5.md)
+# <ins>**Outputs – Notebooks 4 y 5**</ins>
 
 ---
 
