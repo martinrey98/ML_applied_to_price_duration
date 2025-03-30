@@ -1,5 +1,5 @@
 # <ins>**Notebook 1**</ins>: **Consolidación de Base de Precios**
-
+ 
 ### **<ins>Propósito</ins>**
 
 Este notebook tiene como objetivo **consolidar las bases de datos originalmente elaboradas por el** **SIPC** *(Sistema de Información de Precios al Consumidor)* **de forma anual**, a fin de **generar una única base de precios para la totalidad del período en estudio:** ***Enero 2021 - Junio 2024***, imponiéndose diversos criterios de selectividad y completando faltantes en caso de haberlos.
