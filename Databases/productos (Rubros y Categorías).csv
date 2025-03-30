@@ -17,8 +17,8 @@ id.producto;rubro;categoria
 18;Alimentos;Arroz
 19;Alimentos;Arroz
 20;Alimentos;Arroz
-24;Alimentos;Azúcar
-25;Alimentos;Azúcar
+24;Alimentos;AzÃºcar
+25;Alimentos;AzÃºcar
 143;Bebidas sin Alcohol;Estimulantes
 144;Bebidas sin Alcohol;Estimulantes
 145;Bebidas sin Alcohol;Estimulantes
@@ -209,9 +209,9 @@ id.producto;rubro;categoria
 149;Bebidas sin Alcohol;Estimulantes
 150;Bebidas sin Alcohol;Estimulantes
 151;Bebidas sin Alcohol;Estimulantes
-342;Cuidado Personal;Estética
-343;Cuidado Personal;Estética
-344;Cuidado Personal;Estética
+342;Cuidado Personal;EstÃ©tica
+343;Cuidado Personal;EstÃ©tica
+344;Cuidado Personal;EstÃ©tica
 317;Cuidado Personal;Higiene Personal
 318;Cuidado Personal;Higiene Personal
 319;Cuidado Personal;Higiene Personal
@@ -221,8 +221,8 @@ id.producto;rubro;categoria
 320;Cuidado Personal;Higiene Personal
 321;Cuidado Personal;Higiene Personal
 331;Cuidado Personal;Higiene Personal
-322;Cuidado Personal;Estética
-323;Cuidado Personal;Estética
+322;Cuidado Personal;EstÃ©tica
+323;Cuidado Personal;EstÃ©tica
 42;Cuidado Personal;Higiene Personal
 43;Cuidado Personal;Higiene Personal
 44;Cuidado Personal;Higiene Personal
@@ -243,14 +243,14 @@ id.producto;rubro;categoria
 127;Cuidado Personal;Higiene Personal
 329;Cuidado Personal;Higiene Personal
 330;Cuidado Personal;Higiene Personal
-340;Cuidado Personal;Estética
-341;Cuidado Personal;Estética
-352;Cuidado Personal;Protección
-354;Cuidado Personal;Protección
-353;Cuidado Personal;Protección
-355;Cuidado Personal;Protección
-356;Cuidado Personal;Protección
-357;Cuidado Personal;Protección
+340;Cuidado Personal;EstÃ©tica
+341;Cuidado Personal;EstÃ©tica
+352;Cuidado Personal;ProtecciÃ³n
+354;Cuidado Personal;ProtecciÃ³n
+353;Cuidado Personal;ProtecciÃ³n
+355;Cuidado Personal;ProtecciÃ³n
+356;Cuidado Personal;ProtecciÃ³n
+357;Cuidado Personal;ProtecciÃ³n
 335;Cuidado Personal;Higiene Personal
 336;Cuidado Personal;Higiene Personal
 337;Cuidado Personal;Higiene Personal
@@ -264,106 +264,106 @@ id.producto;rubro;categoria
 325;Cuidado Personal;Primeros Auxilios
 350;Cuidado Personal;Primeros Auxilios
 351;Cuidado Personal;Primeros Auxilios
-310;Cuidado Personal;Protección
-314;Cuidado Personal;Protección
-315;Cuidado Personal;Protección
-316;Cuidado Personal;Protección
-308;Cuidado Personal;Protección
-312;Cuidado Personal;Protección
-313;Cuidado Personal;Protección
-311;Cuidado Personal;Protección
-309;Cuidado Personal;Protección
+310;Cuidado Personal;ProtecciÃ³n
+314;Cuidado Personal;ProtecciÃ³n
+315;Cuidado Personal;ProtecciÃ³n
+316;Cuidado Personal;ProtecciÃ³n
+308;Cuidado Personal;ProtecciÃ³n
+312;Cuidado Personal;ProtecciÃ³n
+313;Cuidado Personal;ProtecciÃ³n
+311;Cuidado Personal;ProtecciÃ³n
+309;Cuidado Personal;ProtecciÃ³n
 45;Limpieza;Limpieza de Hogar
 46;Limpieza;Limpieza de Hogar
 47;Limpieza;Limpieza de Hogar
 82;Limpieza;Limpieza de Hogar
 83;Limpieza;Limpieza de Hogar
 84;Limpieza;Limpieza de Hogar
-91;Limpieza;Jabón de Ropa
-92;Limpieza;Jabón de Ropa
-93;Limpieza;Jabón de Ropa
-94;Limpieza;Jabón de Ropa
-95;Limpieza;Jabón de Ropa
-96;Limpieza;Jabón de Ropa
+91;Limpieza;JabÃ³n de Ropa
+92;Limpieza;JabÃ³n de Ropa
+93;Limpieza;JabÃ³n de Ropa
+94;Limpieza;JabÃ³n de Ropa
+95;Limpieza;JabÃ³n de Ropa
+96;Limpieza;JabÃ³n de Ropa
 68;Alimentos;Carnes
 69;Alimentos;Carnes
 70;Alimentos;Carnes
-176;Papelería;Oficina
-167;Papelería;Oficina
-168;Papelería;Oficina
-169;Papelería;Oficina
-170;Papelería;Oficina
-208;Papelería;Escolar
-177;Papelería;Escolar
-178;Papelería;Escolar
-179;Papelería;Escolar
-349;Papelería;Oficina
-184;Papelería;Escolar
-156;Papelería;Escolar
-172;Papelería;Escolar
-173;Papelería;Escolar
-171;Papelería;Escolar
-209;Papelería;Escolar
-210;Papelería;Escolar
-211;Papelería;Escolar
-224;Papelería;Escolar
-223;Papelería;Escolar
-214;Papelería;Escolar
-215;Papelería;Escolar
-216;Papelería;Escolar
-298;Papelería;Escolar
-299;Papelería;Escolar
-300;Papelería;Escolar
-301;Papelería;Escolar
-302;Papelería;Escolar
-213;Papelería;Escolar
-180;Papelería;Escolar
-181;Papelería;Escolar
-182;Papelería;Escolar
-207;Papelería;Escolar
-212;Papelería;Escolar
-202;Papelería;Escolar
-203;Papelería;Escolar
-204;Papelería;Escolar
-205;Papelería;Escolar
-206;Papelería;Escolar
-161;Papelería;Escolar
-162;Papelería;Escolar
-163;Papelería;Escolar
-164;Papelería;Escolar
-165;Papelería;Escolar
-166;Papelería;Escolar
-304;Papelería;Escolar
-199;Papelería;Oficina
-200;Papelería;Oficina
-201;Papelería;Oficina
-155;Papelería;Escolar
-157;Papelería;Escolar
-158;Papelería;Escolar
-159;Papelería;Escolar
-160;Papelería;Escolar
-305;Papelería;Escolar
-217;Papelería;Oficina
-303;Papelería;Oficina
-197;Papelería;Oficina
-198;Papelería;Oficina
-306;Papelería;Oficina
-307;Papelería;Oficina
-187;Papelería;Escolar
-188;Papelería;Escolar
-190;Papelería;Escolar
-192;Papelería;Escolar
-193;Papelería;Escolar
-194;Papelería;Escolar
-221;Papelería;Oficina
-222;Papelería;Oficina
-195;Papelería;Escolar
-196;Papelería;Escolar
-220;Papelería;Escolar
-174;Papelería;Escolar
-175;Papelería;Escolar
-185;Papelería;Escolar
-186;Papelería;Escolar
-183;Papelería;Escolar
-218;Papelería;Escolar
-219;Papelería;Escolar
+176;PapelerÃ­a;Oficina
+167;PapelerÃ­a;Oficina
+168;PapelerÃ­a;Oficina
+169;PapelerÃ­a;Oficina
+170;PapelerÃ­a;Oficina
+208;PapelerÃ­a;Escolar
+177;PapelerÃ­a;Escolar
+178;PapelerÃ­a;Escolar
+179;PapelerÃ­a;Escolar
+349;PapelerÃ­a;Oficina
+184;PapelerÃ­a;Escolar
+156;PapelerÃ­a;Escolar
+172;PapelerÃ­a;Escolar
+173;PapelerÃ­a;Escolar
+171;PapelerÃ­a;Escolar
+209;PapelerÃ­a;Escolar
+210;PapelerÃ­a;Escolar
+211;PapelerÃ­a;Escolar
+224;PapelerÃ­a;Escolar
+223;PapelerÃ­a;Escolar
+214;PapelerÃ­a;Escolar
+215;PapelerÃ­a;Escolar
+216;PapelerÃ­a;Escolar
+298;PapelerÃ­a;Escolar
+299;PapelerÃ­a;Escolar
+300;PapelerÃ­a;Escolar
+301;PapelerÃ­a;Escolar
+302;PapelerÃ­a;Escolar
+213;PapelerÃ­a;Escolar
+180;PapelerÃ­a;Escolar
+181;PapelerÃ­a;Escolar
+182;PapelerÃ­a;Escolar
+207;PapelerÃ­a;Escolar
+212;PapelerÃ­a;Escolar
+202;PapelerÃ­a;Escolar
+203;PapelerÃ­a;Escolar
+204;PapelerÃ­a;Escolar
+205;PapelerÃ­a;Escolar
+206;PapelerÃ­a;Escolar
+161;PapelerÃ­a;Escolar
+162;PapelerÃ­a;Escolar
+163;PapelerÃ­a;Escolar
+164;PapelerÃ­a;Escolar
+165;PapelerÃ­a;Escolar
+166;PapelerÃ­a;Escolar
+304;PapelerÃ­a;Escolar
+199;PapelerÃ­a;Oficina
+200;PapelerÃ­a;Oficina
+201;PapelerÃ­a;Oficina
+155;PapelerÃ­a;Escolar
+157;PapelerÃ­a;Escolar
+158;PapelerÃ­a;Escolar
+159;PapelerÃ­a;Escolar
+160;PapelerÃ­a;Escolar
+305;PapelerÃ­a;Escolar
+217;PapelerÃ­a;Oficina
+303;PapelerÃ­a;Oficina
+197;PapelerÃ­a;Oficina
+198;PapelerÃ­a;Oficina
+306;PapelerÃ­a;Oficina
+307;PapelerÃ­a;Oficina
+187;PapelerÃ­a;Escolar
+188;PapelerÃ­a;Escolar
+190;PapelerÃ­a;Escolar
+192;PapelerÃ­a;Escolar
+193;PapelerÃ­a;Escolar
+194;PapelerÃ­a;Escolar
+221;PapelerÃ­a;Oficina
+222;PapelerÃ­a;Oficina
+195;PapelerÃ­a;Escolar
+196;PapelerÃ­a;Escolar
+220;PapelerÃ­a;Escolar
+174;PapelerÃ­a;Escolar
+175;PapelerÃ­a;Escolar
+185;PapelerÃ­a;Escolar
+186;PapelerÃ­a;Escolar
+183;PapelerÃ­a;Escolar
+218;PapelerÃ­a;Escolar
+219;PapelerÃ­a;Escolar
