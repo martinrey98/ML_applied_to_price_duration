@@ -1,0 +1,369 @@
+id.producto;rubro;categoria
+1;Alimentos;Aceites
+2;Alimentos;Aceites
+3;Alimentos;Aceites
+359;Alimentos;Aceites
+361;Alimentos;Aceites
+365;Alimentos;Aceites
+4;Alimentos;Aceites
+5;Alimentos;Aceites
+6;Alimentos;Aceites
+7;Alimentos;Aceites
+8;Alimentos;Aceites
+9;Alimentos;Aceites
+15;Alimentos;Arroz
+16;Alimentos;Arroz
+17;Alimentos;Arroz
+18;Alimentos;Arroz
+19;Alimentos;Arroz
+20;Alimentos;Arroz
+24;Alimentos;Azúcar
+25;Alimentos;Azúcar
+143;Bebidas sin Alcohol;Estimulantes
+144;Bebidas sin Alcohol;Estimulantes
+145;Bebidas sin Alcohol;Estimulantes
+13;Alimentos;Carnes
+14;Alimentos;Carnes
+29;Alimentos;Carnes
+30;Alimentos;Carnes
+114;Alimentos;Carnes
+115;Alimentos;Carnes
+128;Alimentos;Carnes
+129;Alimentos;Carnes
+130;Alimentos;Carnes
+131;Alimentos;Carnes
+132;Alimentos;Carnes
+139;Alimentos;Carnes
+37;Alimentos;Chacinados
+38;Alimentos;Chacinados
+39;Alimentos;Chacinados
+58;Alimentos;Chacinados
+59;Alimentos;Chacinados
+60;Alimentos;Chacinados
+97;Alimentos;Chacinados
+98;Alimentos;Chacinados
+99;Alimentos;Chacinados
+100;Alimentos;Chacinados
+101;Alimentos;Chacinados
+116;Alimentos;Chacinados
+117;Alimentos;Chacinados
+108;Alimentos;Condimentos y Salsas
+109;Alimentos;Condimentos y Salsas
+110;Alimentos;Condimentos y Salsas
+133;Alimentos;Condimentos y Salsas
+134;Alimentos;Condimentos y Salsas
+135;Alimentos;Condimentos y Salsas
+48;Alimentos;Dulces
+49;Alimentos;Dulces
+50;Alimentos;Dulces
+51;Alimentos;Dulces
+111;Alimentos;Dulces
+112;Alimentos;Dulces
+113;Alimentos;Dulces
+226;Alimentos;Enlatados
+21;Alimentos;Enlatados
+22;Alimentos;Enlatados
+23;Alimentos;Enlatados
+235;Alimentos;Verduras
+140;Alimentos;Sal
+141;Alimentos;Sal
+142;Alimentos;Sal
+257;Alimentos;Frutas
+255;Alimentos;Frutas
+258;Alimentos;Frutas
+260;Alimentos;Frutas
+265;Alimentos;Frutas
+263;Alimentos;Frutas
+267;Alimentos;Frutas
+268;Alimentos;Frutas
+269;Alimentos;Frutas
+270;Alimentos;Frutas
+271;Alimentos;Frutas
+272;Alimentos;Frutas
+273;Alimentos;Frutas
+274;Alimentos;Frutas
+275;Alimentos;Frutas
+276;Alimentos;Frutas
+278;Alimentos;Frutas
+277;Alimentos;Frutas
+279;Alimentos;Frutas
+280;Alimentos;Frutas
+281;Alimentos;Frutas
+282;Alimentos;Frutas
+283;Alimentos;Frutas
+284;Alimentos;Frutas
+285;Alimentos;Frutas
+286;Alimentos;Frutas
+287;Alimentos;Frutas
+246;Alimentos;Frutas
+288;Alimentos;Frutas
+289;Alimentos;Frutas
+290;Alimentos;Frutas
+291;Alimentos;Frutas
+292;Alimentos;Frutas
+293;Alimentos;Frutas
+253;Alimentos;Frutas
+254;Alimentos;Frutas
+294;Alimentos;Frutas
+295;Alimentos;Frutas
+296;Alimentos;Frutas
+297;Alimentos;Frutas
+61;Alimentos;Panificados
+62;Alimentos;Panificados
+71;Alimentos;Harinas
+72;Alimentos;Harinas
+73;Alimentos;Harinas
+74;Alimentos;Harinas
+75;Alimentos;Harinas
+76;Alimentos;Harinas
+77;Alimentos;Harinas
+78;Alimentos;Harinas
+358;Alimentos;Harinas
+360;Alimentos;Harinas
+362;Alimentos;Harinas
+363;Alimentos;Harinas
+364;Alimentos;Harinas
+79;Alimentos;Postres
+80;Alimentos;Postres
+81;Alimentos;Postres
+85;Alimentos;Huevos
+86;Alimentos;Huevos
+87;Alimentos;Huevos
+102;Alimentos;Lacteos
+103;Alimentos;Lacteos
+104;Alimentos;Lacteos
+105;Alimentos;Lacteos
+106;Alimentos;Lacteos
+107;Alimentos;Lacteos
+136;Alimentos;Lacteos
+137;Alimentos;Lacteos
+138;Alimentos;Lacteos
+152;Alimentos;Lacteos
+153;Alimentos;Lacteos
+154;Alimentos;Lacteos
+118;Alimentos;Panificados
+119;Alimentos;Panificados
+120;Alimentos;Panificados
+121;Alimentos;Panificados
+52;Alimentos;Fideos
+53;Alimentos;Fideos
+54;Alimentos;Fideos
+55;Alimentos;Fideos
+56;Alimentos;Fideos
+57;Alimentos;Fideos
+225;Alimentos;Verduras
+227;Alimentos;Verduras
+228;Alimentos;Verduras
+229;Alimentos;Verduras
+230;Alimentos;Verduras
+231;Alimentos;Verduras
+233;Alimentos;Verduras
+232;Alimentos;Verduras
+234;Alimentos;Verduras
+236;Alimentos;Verduras
+237;Alimentos;Verduras
+238;Alimentos;Verduras
+239;Alimentos;Verduras
+240;Alimentos;Verduras
+241;Alimentos;Verduras
+242;Alimentos;Verduras
+243;Alimentos;Verduras
+244;Alimentos;Verduras
+245;Alimentos;Verduras
+247;Alimentos;Verduras
+248;Alimentos;Verduras
+249;Alimentos;Verduras
+250;Alimentos;Verduras
+251;Alimentos;Verduras
+252;Alimentos;Verduras
+256;Alimentos;Verduras
+259;Alimentos;Verduras
+261;Alimentos;Verduras
+262;Alimentos;Verduras
+264;Alimentos;Verduras
+266;Alimentos;Verduras
+31;Bebidas con Alcohol;Cervezas
+32;Bebidas con Alcohol;Cervezas
+33;Bebidas con Alcohol;Cervezas
+146;Bebidas con Alcohol;Vinos
+147;Bebidas con Alcohol;Vinos
+148;Bebidas con Alcohol;Vinos
+10;Bebidas sin Alcohol;Aguas
+11;Bebidas sin Alcohol;Aguas
+12;Bebidas sin Alcohol;Aguas
+366;Bebidas sin Alcohol;Aguas
+367;Bebidas sin Alcohol;Aguas
+368;Bebidas sin Alcohol;Aguas
+369;Bebidas sin Alcohol;Aguas
+370;Bebidas sin Alcohol;Aguas
+26;Bebidas sin Alcohol;Estimulantes
+27;Bebidas sin Alcohol;Estimulantes
+28;Bebidas sin Alcohol;Estimulantes
+40;Bebidas sin Alcohol;Estimulantes
+41;Bebidas sin Alcohol;Estimulantes
+63;Bebidas sin Alcohol;Gaseosas
+64;Bebidas sin Alcohol;Gaseosas
+65;Bebidas sin Alcohol;Gaseosas
+66;Bebidas sin Alcohol;Gaseosas
+67;Bebidas sin Alcohol;Gaseosas
+149;Bebidas sin Alcohol;Estimulantes
+150;Bebidas sin Alcohol;Estimulantes
+151;Bebidas sin Alcohol;Estimulantes
+342;Cuidado Personal;Estética
+343;Cuidado Personal;Estética
+344;Cuidado Personal;Estética
+317;Cuidado Personal;Higiene Personal
+318;Cuidado Personal;Higiene Personal
+319;Cuidado Personal;Higiene Personal
+34;Cuidado Personal;Higiene Personal
+35;Cuidado Personal;Higiene Personal
+36;Cuidado Personal;Higiene Personal
+320;Cuidado Personal;Higiene Personal
+321;Cuidado Personal;Higiene Personal
+331;Cuidado Personal;Higiene Personal
+322;Cuidado Personal;Estética
+323;Cuidado Personal;Estética
+42;Cuidado Personal;Higiene Personal
+43;Cuidado Personal;Higiene Personal
+44;Cuidado Personal;Higiene Personal
+339;Cuidado Personal;Higiene Personal
+88;Cuidado Personal;Higiene Personal
+89;Cuidado Personal;Higiene Personal
+90;Cuidado Personal;Higiene Personal
+324;Cuidado Personal;Higiene Personal
+338;Cuidado Personal;Higiene Personal
+327;Cuidado Personal;Higiene Personal
+328;Cuidado Personal;Higiene Personal
+326;Cuidado Personal;Higiene Personal
+122;Cuidado Personal;Higiene Personal
+123;Cuidado Personal;Higiene Personal
+124;Cuidado Personal;Higiene Personal
+125;Cuidado Personal;Higiene Personal
+126;Cuidado Personal;Higiene Personal
+127;Cuidado Personal;Higiene Personal
+329;Cuidado Personal;Higiene Personal
+330;Cuidado Personal;Higiene Personal
+340;Cuidado Personal;Estética
+341;Cuidado Personal;Estética
+352;Cuidado Personal;Protección
+354;Cuidado Personal;Protección
+353;Cuidado Personal;Protección
+355;Cuidado Personal;Protección
+356;Cuidado Personal;Protección
+357;Cuidado Personal;Protección
+335;Cuidado Personal;Higiene Personal
+336;Cuidado Personal;Higiene Personal
+337;Cuidado Personal;Higiene Personal
+332;Cuidado Personal;Higiene Personal
+333;Cuidado Personal;Higiene Personal
+334;Cuidado Personal;Higiene Personal
+345;Cuidado Personal;Primeros Auxilios
+347;Cuidado Personal;Primeros Auxilios
+346;Cuidado Personal;Primeros Auxilios
+348;Cuidado Personal;Primeros Auxilios
+325;Cuidado Personal;Primeros Auxilios
+350;Cuidado Personal;Primeros Auxilios
+351;Cuidado Personal;Primeros Auxilios
+310;Cuidado Personal;Protección
+314;Cuidado Personal;Protección
+315;Cuidado Personal;Protección
+316;Cuidado Personal;Protección
+308;Cuidado Personal;Protección
+312;Cuidado Personal;Protección
+313;Cuidado Personal;Protección
+311;Cuidado Personal;Protección
+309;Cuidado Personal;Protección
+45;Limpieza;Limpieza de Hogar
+46;Limpieza;Limpieza de Hogar
+47;Limpieza;Limpieza de Hogar
+82;Limpieza;Limpieza de Hogar
+83;Limpieza;Limpieza de Hogar
+84;Limpieza;Limpieza de Hogar
+91;Limpieza;Jabón de Ropa
+92;Limpieza;Jabón de Ropa
+93;Limpieza;Jabón de Ropa
+94;Limpieza;Jabón de Ropa
+95;Limpieza;Jabón de Ropa
+96;Limpieza;Jabón de Ropa
+68;Alimentos;Carnes
+69;Alimentos;Carnes
+70;Alimentos;Carnes
+176;Papelería;Oficina
+167;Papelería;Oficina
+168;Papelería;Oficina
+169;Papelería;Oficina
+170;Papelería;Oficina
+208;Papelería;Escolar
+177;Papelería;Escolar
+178;Papelería;Escolar
+179;Papelería;Escolar
+349;Papelería;Oficina
+184;Papelería;Escolar
+156;Papelería;Escolar
+172;Papelería;Escolar
+173;Papelería;Escolar
+171;Papelería;Escolar
+209;Papelería;Escolar
+210;Papelería;Escolar
+211;Papelería;Escolar
+224;Papelería;Escolar
+223;Papelería;Escolar
+214;Papelería;Escolar
+215;Papelería;Escolar
+216;Papelería;Escolar
+298;Papelería;Escolar
+299;Papelería;Escolar
+300;Papelería;Escolar
+301;Papelería;Escolar
+302;Papelería;Escolar
+213;Papelería;Escolar
+180;Papelería;Escolar
+181;Papelería;Escolar
+182;Papelería;Escolar
+207;Papelería;Escolar
+212;Papelería;Escolar
+202;Papelería;Escolar
+203;Papelería;Escolar
+204;Papelería;Escolar
+205;Papelería;Escolar
+206;Papelería;Escolar
+161;Papelería;Escolar
+162;Papelería;Escolar
+163;Papelería;Escolar
+164;Papelería;Escolar
+165;Papelería;Escolar
+166;Papelería;Escolar
+304;Papelería;Escolar
+199;Papelería;Oficina
+200;Papelería;Oficina
+201;Papelería;Oficina
+155;Papelería;Escolar
+157;Papelería;Escolar
+158;Papelería;Escolar
+159;Papelería;Escolar
+160;Papelería;Escolar
+305;Papelería;Escolar
+217;Papelería;Oficina
+303;Papelería;Oficina
+197;Papelería;Oficina
+198;Papelería;Oficina
+306;Papelería;Oficina
+307;Papelería;Oficina
+187;Papelería;Escolar
+188;Papelería;Escolar
+190;Papelería;Escolar
+192;Papelería;Escolar
+193;Papelería;Escolar
+194;Papelería;Escolar
+221;Papelería;Oficina
+222;Papelería;Oficina
+195;Papelería;Escolar
+196;Papelería;Escolar
+220;Papelería;Escolar
+174;Papelería;Escolar
+175;Papelería;Escolar
+185;Papelería;Escolar
+186;Papelería;Escolar
+183;Papelería;Escolar
+218;Papelería;Escolar
+219;Papelería;Escolar
