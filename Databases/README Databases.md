@@ -1,4 +1,4 @@
-# <ins>**Bases de Datos No Incluidas en el Repositorio**</ins>
+# <ins>**Databases**</ins>
 
 ⚠️ **Nota:** Por motivos de tamaño, algunas bases de datos **no han sido cargadas directamente al repositorio de GitHub**.
 
