@@ -1,5 +1,8 @@
 # <ins>**Outputs – Notebooks 4 y 5**</ins>
 
+⚠️ **Nota:** Los archivos `.pkl` generados en el presente trabajo **no se encuentran subidos debido a su tamaño**.  
+ Para más información, véase: [*README Databases*](./README_Databases.md)
+
 ---
 
 ## <ins>**Notebook 4**</ins>: *Modelización tradicional de Machine Learning*
@@ -30,13 +33,11 @@
 - `LightGBM_best_model_<rubro>.pkl`
 - `CatBoost_best_model_<rubro>.pkl`
 
----
 
 ### <ins>**2. Importancia de predictores (`.png`)**</ins>
 - `Importancia_Predictores.png`
 - `Importancia_Predictores_<rubro>.png`
 
----
 
 ### <ins>**3. Resultados (`.xlsx`)**</ins>
 - `Resumen_Resultados.xlsx`  
@@ -55,14 +56,10 @@
 - `Random_Survival_Forest_<rubro o general>.pkl`
 - `Cox_Proportional_Hazards_Model_<rubro o general>.pkl`
 
----
-
 ### <ins>**2. Curvas de supervivencia (`.png`)**</ins>
 
 - `Random_Survival_Forest_Curva_de_Supervivencia_<rubro o general>.png`
 - `Cox_Proportional_Hazards_Model_Curva_de_Supervivencia_<rubro o general>.png`
-
----
 
 ### <ins>**3. Resultados (`.xlsx`)**</ins>
 
